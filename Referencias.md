@@ -1,3 +1,6 @@
+**Disciplina:** Desenvolvimento Web.
+**Período:** Quarto período. 2024
+
 Python: É uma linguagem de programação muito utilizada, a relação dela com o curso é justamente por
 conta da programação.
 https://www.python.org/
